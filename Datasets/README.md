@@ -16,17 +16,3 @@ diam - optimal (minimal) diameter of a graph;
 
 New families of optimal chordal ring networks (fragment) -> New families.jpg
 
-About:
-
-Additional information about the dataset is presented in the following article.
-
-Reference
-
-When you write a paper using this library, please refer to the paper.
-
-Метод автоматического поиска семейств оптимальных хордальных кольцевых сетей
-(Method for Automatic Discovery of Families of Optimal Chordal Ring Networks)
-by
-Монахова Эмилия Анатольевна (Emilia A. Monakhova) and
-Монахов Олег Геннадьевич (Oleg G. Monakhov),
-(to appear in "Journal of Applied and Industrial Mathematics", submitted 08.08.2023)
