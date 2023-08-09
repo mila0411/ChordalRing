@@ -14,6 +14,8 @@ s - optimal generator (3 <= s <= N/2)
 
 diam - optimal (minimal) diameter of a graph;
 
+New families of optimal chordal ring networks (fragment) -> New families.jpg
+
 About:
 
 Additional information about the dataset is presented in the following article.
