@@ -1,6 +1,6 @@
 Datasets of Optimal Chordal Ring networks
 
-The datasets are lists of Optimal Chordal Ring Networks (Graphs) of the form C(N;1,-1,s) with the minimum diameter for different number of nodes : where file chord-opt-X1-X2.csv is a list of graphs with X1-X2 thousands of nodes 
+The datasets are lists of Optimal Chordal Ring Networks (Graphs) of the form C(N;1,-1,s) with the minimum diameter for different number of nodes : where file chord-opt-X1-X2.csv is a list of graphs with X1-X2 nodes (until 60118 nodes)
 
 CSV files format:
 
